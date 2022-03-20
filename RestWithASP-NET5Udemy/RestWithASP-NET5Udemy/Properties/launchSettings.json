@@ -20,7 +20,7 @@
     "RestWithASP_NET5Udemy": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "weatherforecast",
+      "launchUrl": "calculator/sum/1/1",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
